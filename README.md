@@ -18,3 +18,6 @@ How to setup project
 2. start the XAMPP web server
 3. put the project folder(assignment_csquare) into htdocs
 4. and find the => http://localhost/assignment_csquare/php/customer/viewCustomer.php
+
+Images
+<img src="./projet_images/img1.png" alt="Alt text" title="Optional title">
