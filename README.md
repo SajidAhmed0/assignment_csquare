@@ -21,3 +21,14 @@ How to setup project
 
 Images
 <img src="./project_images/img1.png" alt="Alt text" title="Optional title">
+<img src="./project_images/img2.png" alt="Alt text" title="Optional title">
+<img src="./project_images/img3.png" alt="Alt text" title="Optional title">
+<img src="./project_images/img4.png" alt="Alt text" title="Optional title">
+<img src="./project_images/img5.png" alt="Alt text" title="Optional title">
+<img src="./project_images/img6.png" alt="Alt text" title="Optional title">
+<img src="./project_images/img7.png" alt="Alt text" title="Optional title">
+<img src="./project_images/img8.png" alt="Alt text" title="Optional title">
+<img src="./project_images/img9.png" alt="Alt text" title="Optional title">
+<img src="./project_images/img10.png" alt="Alt text" title="Optional title">
+<img src="./project_images/img11.png" alt="Alt text" title="Optional title">
+<img src="./project_images/img12.png" alt="Alt text" title="Optional title">
