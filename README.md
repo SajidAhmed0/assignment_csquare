@@ -20,4 +20,4 @@ How to setup project
 4. and find the => http://localhost/assignment_csquare/php/customer/viewCustomer.php
 
 Images
-<img src="./projet_images/img1.png" alt="Alt text" title="Optional title">
+<img src="./project_images/img1.png" alt="Alt text" title="Optional title">
